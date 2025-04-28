@@ -1,10 +1,5 @@
 #  Optimizing Feature Extraction with Principal Component Analysis (PCA)
 
-##  Research Question
-
-**How can dimensionality reduction techniques such as Principal Component Analysis uncover key patterns and reduce complexity in high-dimensional medical data?**
-
----
 
 ##  Project Overview
 
