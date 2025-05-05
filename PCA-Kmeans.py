@@ -30,7 +30,7 @@ import warnings
 # In[343]:
 
 
-pcadata=pd.read_csv("C:/Users/laksh/Desktop/WGU-MS Data analytics/MSDA-D212-Data Mining II/medical_clean.csv")
+pcadata=pd.read_csv("path_to_csv")
 pcadata.head()
 
 
@@ -250,7 +250,7 @@ plt.show()
 
 
 #Export cleaned data to CSV
-scaled_dmr.to_csv("C:/Users/laksh/Desktop/WGU-MS Data analytics/MSDA-D212-Data Mining II/PCA_scaled_data.csv",index=True)
+scaled_dmr.to_csv("path_to_file",index=True)
 
 
 # In[364]:
